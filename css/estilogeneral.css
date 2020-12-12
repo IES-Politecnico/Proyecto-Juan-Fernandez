@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(154, 243, 224);
+}
+
+ table {
+     width: 25%;
+     border-collapse: collapse;
+     background-color: #f79646;
+ }
+ td {
+     border: 1px solid black;
+     text-align: center;
+
+}
+
+#Fichajes{
+    background-color: lightcyan;
+}
+
+#Partido{
+    background-color:rgb(192, 137, 243) ;
+}
+
+
+#Ultima{
+    background-color: rgb(245, 84, 84) ;
+}
+
+#footer{
+    text-align: center;
+    background-color:white;
+}
+
+#LISTA{
+    background-color:black;
+}
